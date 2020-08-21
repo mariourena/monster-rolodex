@@ -1,0 +1,1 @@
+export const jsonPlaceholer = 'https://jsonplaceholder.typicode.com/users';
